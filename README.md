@@ -1,4 +1,4 @@
-# Coursework Summary: Operating Systems and Concurrency - Assignment 1
+# Coursework: Operating Systems and Concurrency - Assignment 1
 
 ## Digital Image Processor
 
